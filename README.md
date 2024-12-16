@@ -1,7 +1,7 @@
 
 Quiz App
 
-A fun and interactive General Knowledge quiz app built with HTML, CSS, and JavaScript. The app consists of 8 multiple-choice questions, each with 4 options. Test your knowledge, track your score, and review incorrect answers at the end!
+A fun and interactive General Knowledge quiz app built with HTML, CSS, and JavaScript. The app consists of 8 multiple-choice questions, each with 4 options. Test your knowledge, track your score, and review incorrect answers at the end! https://szehra17.github.io/Quiz-App/
 
 Features
 
@@ -29,6 +29,5 @@ JavaScript: For handling the quiz logic, scoring, and interactions.
 
 Installation
 
-Fork the repository
-Clone the repository to your local machine
+Fork the repository and clone the repository to your local machine
  
